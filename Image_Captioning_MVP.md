@@ -19,4 +19,4 @@ The NLP process included:
 > our target is to generate a caption for each image, in other words it's not a classification problem.
 ## Future Work
 - Use pre-trained NN (RNN, CNN) for images and caption separately.
-- Build a new NN that takes the output of pre-trained NN as X<sub>i</sub> and y.
+- Build a new NN that takes the output of pre-trained NN as X<sub>i</sub> and y<sub>i</sub>.
