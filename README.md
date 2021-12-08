@@ -4,6 +4,7 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 - [**Project Proposal**](Image_Captioning_Proposal.md)
 - [**Image Folder:**](/Image) to put the images used within this repo
 - [**Project MVP**](Image_Captioning_MVP.md)
+- [**Final Report**](Image_Captioning_Final_Report.md)
 
 ### Contact Me
 For any questions please contact me <br/>
