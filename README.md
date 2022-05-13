@@ -11,7 +11,6 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 ### Contact Me
 For any questions please contact me <br/>
 - 📧 **Email :** shhd.kaltham@gmail.com <br/>
-- [LinkedIn](www.linkedin.com/in/shahad-alkaltham)
 
 <br/><br/>
 Thank you! ☘️
